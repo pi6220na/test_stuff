@@ -8,3 +8,53 @@
 2018-03-05 20:04:12,755 - Nina - DEBUG - doubler function executing
 2018-03-05 20:04:12,755 - Dingbat - DEBUG - doubler function ended with: 6
 2018-03-05 20:04:12,755 - Nina - DEBUG - doubler function ended with: 8
+2018-03-17 19:01:43,926 - Mike - DEBUG - doubler function executing
+2018-03-17 19:01:43,926 - George - DEBUG - doubler function executing
+2018-03-17 19:01:43,927 - Wanda - DEBUG - doubler function executing
+2018-03-17 19:01:43,927 - Dingbat - DEBUG - doubler function executing
+2018-03-17 19:01:43,927 - Mike - DEBUG - doubler function ended with: 0
+2018-03-17 19:01:43,927 - Nina - DEBUG - doubler function executing
+2018-03-17 19:01:43,927 - George - DEBUG - doubler function ended with: 2
+2018-03-17 19:01:43,928 - Wanda - DEBUG - doubler function ended with: 4
+2018-03-17 19:01:43,928 - Dingbat - DEBUG - doubler function ended with: 6
+2018-03-17 19:01:43,928 - Nina - DEBUG - doubler function ended with: 8
+2018-03-17 19:08:13,754 - Mike - DEBUG - doubler function executing
+2018-03-17 19:08:13,754 - Mike - DEBUG - doubler function ended with: 0
+2018-03-17 19:08:13,754 - George - DEBUG - doubler function executing
+2018-03-17 19:08:13,755 - Wanda - DEBUG - doubler function executing
+2018-03-17 19:08:13,755 - George - DEBUG - doubler function ended with: 2
+2018-03-17 19:08:13,755 - Dingbat - DEBUG - doubler function executing
+2018-03-17 19:08:13,755 - Wanda - DEBUG - doubler function ended with: 4
+2018-03-17 19:08:13,755 - Nina - DEBUG - doubler function executing
+2018-03-17 19:08:13,756 - Dingbat - DEBUG - doubler function ended with: 6
+2018-03-17 19:08:13,756 - Nina - DEBUG - doubler function ended with: 8
+2018-03-17 19:08:36,682 - Mike - DEBUG - doubler function executing
+2018-03-17 19:08:36,683 - George - DEBUG - doubler function executing
+2018-03-17 19:08:36,683 - Wanda - DEBUG - doubler function executing
+2018-03-17 19:08:36,684 - Dingbat - DEBUG - doubler function executing
+2018-03-17 19:08:36,684 - Nina - DEBUG - doubler function executing
+2018-03-17 19:08:38,685 - Wanda - DEBUG - doubler function ended with: 4
+2018-03-17 19:08:38,686 - George - DEBUG - doubler function ended with: 2
+2018-03-17 19:08:38,686 - Mike - DEBUG - doubler function ended with: 0
+2018-03-17 19:08:38,687 - Nina - DEBUG - doubler function ended with: 8
+2018-03-17 19:08:38,688 - Dingbat - DEBUG - doubler function ended with: 6
+2018-03-17 19:10:03,376 - Mike - DEBUG - doubler function executing
+2018-03-17 19:10:03,377 - George - DEBUG - doubler function executing
+2018-03-17 19:10:03,377 - Wanda - DEBUG - doubler function executing
+2018-03-17 19:10:03,378 - Dingbat - DEBUG - doubler function executing
+2018-03-17 19:10:03,378 - Nina - DEBUG - doubler function executing
+2018-03-17 19:10:03,378 - MainThread - DEBUG - doubler function executing
+2018-03-17 19:10:05,378 - Mike - DEBUG - doubler function ended with: 0
+2018-03-17 19:10:05,379 - Dingbat - DEBUG - doubler function ended with: 6
+2018-03-17 19:10:05,379 - MainThread - DEBUG - doubler function ended with: 0
+2018-03-17 19:10:05,379 - Wanda - DEBUG - doubler function ended with: 4
+2018-03-17 19:10:05,379 - George - DEBUG - doubler function ended with: 2
+2018-03-17 19:10:05,379 - MainThread - DEBUG - doubler function executing
+2018-03-17 19:10:05,380 - Nina - DEBUG - doubler function ended with: 8
+2018-03-17 19:10:07,380 - MainThread - DEBUG - doubler function ended with: 2
+2018-03-17 19:10:07,380 - MainThread - DEBUG - doubler function executing
+2018-03-17 19:10:09,380 - MainThread - DEBUG - doubler function ended with: 4
+2018-03-17 19:10:09,380 - MainThread - DEBUG - doubler function executing
+2018-03-17 19:10:11,381 - MainThread - DEBUG - doubler function ended with: 6
+2018-03-17 19:10:11,381 - MainThread - DEBUG - doubler function executing
+2018-03-17 19:10:13,381 - MainThread - DEBUG - doubler function ended with: 8
